@@ -1,74 +1,35 @@
-# Project Name
+# Micro-reddit
 
-> One paragraph statement about the project.
+> Small version of Micro-Reddit to check working on Active Records, models and Associations
 
-![screenshot](./app_screenshot.png)
+![screenshot](./Screenshot.png)
 
-Additional description about the project and its features.
+This project is to check how active record, models, and associations works in Rails. This application is similar to Reddit (called Micro-Reddit) where a user can create a post and add comments to it.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Ruby
+- Rails
+- VSCode
+- Git and Github
 
-## Live Demo
+👤 **Azeem Ahmed**
 
-[Live Demo Link](https://livedemo.com)
+- Github: [@Azeem838](https://github.com/Azeem838)
 
+👤 **Rajkumar Das**
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@rajkumardas2701](https://github.com/rajkumardas2701)
+- Twitter: [@Rajkuma58621299](https://twitter.com/Rajkuma58621299)
+- Linkedin: [Rajkumar Das](https://www.linkedin.com/in/rajkumar-das-41308961/)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/rajkumardas2701/Micro-reddit1/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
